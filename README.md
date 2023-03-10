@@ -17,3 +17,5 @@ This implementation comes with several functionalities, as a result of using mul
   * The teacher/assistant first adds all grades of the students in a (student, course, grade) structure, then 'visits' the entire student list in order to add their grades to the course itself. 
   * As a result, when this is done, the parents get **notified**.
 - A student can check their grades in a **GUI** that shows the courses they're enrolled in and all information relevant to that course (teacher, assistant/s and grades).
+
+The *.json* file is an example that gets parsed in *Parser.java*.
