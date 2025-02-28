@@ -18,4 +18,4 @@ This implementation comes with several functions, as a result of using multiple 
   * As a result, when this is done, the parents get **notified**.
 - A student can check their grades in a **GUI** that shows the courses they're enrolled in and all information relevant to that course (teacher, assistant/s and grades).
 
-The *.json* file is an example that gets parsed in *Parser.java*.
+The `.json` file is an example that gets parsed in *Parser.java*.
