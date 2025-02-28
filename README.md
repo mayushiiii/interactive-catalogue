@@ -1,4 +1,4 @@
-# Interactive student catalogue
+# Interactive student catalog
 
 
 This implementation comes with several functions, as a result of using multiple **Design Patterns** in **Java**.
