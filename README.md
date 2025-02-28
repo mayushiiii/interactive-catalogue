@@ -1,7 +1,7 @@
 # Interactive student catalogue
 
 
-This implementation comes with several functionalities, as a result of using multiple **Design Patterns** in **Java**.
+This implementation comes with several functions, as a result of using multiple **Design Patterns** in **Java**.
 
 - Users are added via *UserFactory*, a class using the **Factory** design pattern
   * this makes a clearer distinction between the user types of the catalogue: *students*, *teachers*, *assistants* and *parents*.
